@@ -2,7 +2,7 @@
 
 # Anti-Thread
 
-[![](https://img.shields.io/discord/559414466664464384.svg?logo=discord&colorB=7289DA&label=Support)](https://discord.gg/jYqaGhxDGT)
+[![](https://img.shields.io/discord/559414466664464384.svg?logo=discord&colorB=7289DA&label=Support)](https://discord.gg/rkRpKpV6xV)
 [![](https://img.shields.io/badge/discord.js-v13.1.0-blue.svg?logo=npm)](https://github.com/discordjs/discord.js)
 
 
