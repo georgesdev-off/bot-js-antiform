@@ -19,8 +19,6 @@ Feel free to add a star ⭐ to the repository to promote the project !
 ### Main functionality
 When a thread is created, the bot automatically delete it, and log it into the console.
 
-![image](https://user-images.githubusercontent.com/56278136/133725338-36923121-0891-4ba9-b16a-564c81866c39.png)
-
 ### Owner / Exempt functionality
 ![image](https://user-images.githubusercontent.com/56278136/133726680-f257e320-967b-4c73-80d2-f4e9b0e18b06.png)
 
