@@ -11,7 +11,7 @@
 # PalarBoty your Discord server :
 https://discord.gg/rkRpKpV6xV
 
-This bot is a open source Discord bot coded in JavaScript with [discord.js](https://discord.js.org) by [Evaninoo](https://github.com/georgesdev-off).<br/>
+This bot is a open source Discord bot coded in JavaScript with [discord.js](https://discord.js.org) by [georges_dsc5](https://github.com/georgesdev-off).<br/>
 Feel free to add a star ⭐ to the repository to promote the project !
 
 ## Features
