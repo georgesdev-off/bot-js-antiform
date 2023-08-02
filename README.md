@@ -18,7 +18,6 @@ Feel free to add a star ⭐ to the repository to promote the project !
 
 ### Main functionality
 When a thread is created, the bot automatically delete it, and log it into the console.
-<img width="600" height="430" alt="thread-gif" src="https://user-images.githubusercontent.com/56278136/133724684-d2d4a5e9-2b5a-4b65-9d34-491b98b57fde.gif">
 
 ![image](https://user-images.githubusercontent.com/56278136/133725338-36923121-0891-4ba9-b16a-564c81866c39.png)
 
