@@ -23,7 +23,6 @@ When a thread is created, the bot automatically delete it, and log it into the c
 ![image](https://user-images.githubusercontent.com/56278136/133725338-36923121-0891-4ba9-b16a-564c81866c39.png)
 
 ### Owner / Exempt functionality
-Thanks to the owner functionality, you can allow certain users to create threads. To do this, go to the <strong>config.js</strong>, and replace 'id 1', by the first id of the owner. Same, for the second, third, etc.<br/>
 ![image](https://user-images.githubusercontent.com/56278136/133726680-f257e320-967b-4c73-80d2-f4e9b0e18b06.png)
 
 ## How to Install
